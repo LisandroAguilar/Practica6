@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+td{
+    viewport-fit: text-top;
+}
+ul{
+    list-style: inside;
+}
+a{
+    text-transform: none;
+    color: #01050E;
+}
+div{
+    color: #01050E;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #999999;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: solid 2px antiquewhite;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #255778;
+}
